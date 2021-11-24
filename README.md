@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://i.imgur.com/nwfkVsb.png" title="Clínica Pomarola" />
+<img src="https://i.imgur.com/nwfkVsb.png" title="Teste Bira" />
 </h1>
 
 <h3 align="center">
